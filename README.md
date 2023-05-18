@@ -1,1 +1,1 @@
-# Banco de dados concessionária simulando como seria uma concessionária feito no VSCODE conectado ao banco MYSQL.
+# Banco de dados concessionária simulando como seria uma concessionária, criado no VSCODE e conectado ao banco MYSQL.
